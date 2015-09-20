@@ -6,3 +6,13 @@
 #post-body .rwmb-select-all {
 	margin-top: 5px;
 }
+
+#post-body .rwmb-select_advanced-wrapper input[type=search] {
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+#post-body .rwmb-select_advanced-wrapper li {
+	margin-bottom: 0;
+}
